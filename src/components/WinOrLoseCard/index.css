@@ -1,0 +1,47 @@
+.winOrLoseCardSubContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 90%;
+  background-color: #ffffff33;
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 4px;
+  border-color: #ffffff30;
+}
+
+.winOrLoseCardImage {
+  height: 40%;
+  width: 50%;
+}
+
+.winOrLoseCardHeading {
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.winOrLoseCardPara {
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.winOrLoseCardScore {
+  font-size: 35px;
+  color: #6a59ff;
+}
+
+.winOrLoseCardButton {
+  font-size: 20px;
+  background-color: #ffce27;
+  border-width: 0px;
+  border-radius: 20px;
+  padding: 20px;
+  font-weight: bold;
+  color: #3d3d3d;
+  width: 180px;
+  cursor: pointer;
+}

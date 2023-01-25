@@ -1,0 +1,27 @@
+.emojiSingleCardContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff33;
+  height: 150px;
+  width: 150px;
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 4px;
+  border-color: #ffffff30;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.emojiSingleCardButton {
+  border-width: 0px;
+  background-color: transparent;
+  width: 100%;
+}
+
+.emojiSingleCardImage {
+  height: 100px;
+  width: 100px;
+}

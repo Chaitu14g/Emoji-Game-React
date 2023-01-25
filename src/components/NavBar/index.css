@@ -1,0 +1,31 @@
+.navBar_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ffffff33;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.navBar_image {
+  height: 30px;
+  width: 30px;
+}
+
+.navBar_heading {
+  font-size: 25px;
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.winOrLoseContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: auto;
+}
+
+.nav_bar_scores {
+  font-weight: normal;
+}
