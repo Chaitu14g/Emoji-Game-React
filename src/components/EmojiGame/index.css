@@ -11,8 +11,6 @@
 .emojiCardContainer {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   background-color: transparent;
   overflow-y: auto;
   width: 100%;
@@ -26,4 +24,5 @@
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
+  margin-top: 20px;
 }
